@@ -9,6 +9,7 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 		System.out.println("main line 1 ");
 		System.out.println("main line 2 ");
+		System.out.println("main line 1branch ");
 
 	}
 
